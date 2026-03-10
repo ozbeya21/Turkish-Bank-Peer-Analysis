@@ -1,0 +1,11 @@
+Bank,Metric,Issue
+Akbank,NIM,Definition tag: swap-related (raw='Swap-adjusted NIM')
+Akbank,Cost of Risk (bps),Definition tag: possible ex-FX wording (raw='Net cost of risk (excl. FX)')
+Akbank,IRRBB,"Missing values: FY2023, FY2024"
+Garanti,NIM,Definition tag: swap-related (raw='NIM incl. swap cost')
+Garanti,Cost of Risk (bps),Definition tag: possible ex-FX wording (raw='Net CoR excl. FX')
+Garanti,CET1,Definition tag: regulatory adjustment wording (raw='CET1 ratio (excl. BRSA forbearance)')
+Garanti,IRRBB,"Missing values: FY2023, FY2024"
+Isbank,NIM,Definition tag: swap-related (raw='NIM (adjusted for swap cost)')
+Isbank,IRRBB,"Missing values: FY2023, FY2024"
+Isbank,Loan Growth (YoY),Missing values: FY2023

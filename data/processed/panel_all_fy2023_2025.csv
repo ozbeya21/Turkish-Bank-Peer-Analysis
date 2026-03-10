@@ -1,0 +1,49 @@
+Bank,Metric,Unit,Metric_raw,FY2023,FY2024,FY2025
+Akbank,Total Assets,TL mn,Total Assets,1789174.174,2515596.654,3558950.0
+Akbank,Total Loans,TL mn,Total Loans,870105.637,1286770.857,1850222.0
+Akbank,Total Deposits,TL mn,Total Deposits,1218108.326,1562097.372,2173421.0
+Akbank,Equity,TL mn,Equity,211195.0,240348.0,310169.0
+Akbank,Net Profit,TL mn,Net Profit,66478.94,42366.07,57227.0
+Akbank,ROE,%,ROE,36.703819,18.7152626245226,21.5
+Akbank,ROA,%,ROA,4.415828,1.89688197209856,1.9
+Akbank,NIM,%,Swap-adjusted NIM,4.7,2.2,2.5
+Akbank,NPL Ratio,%,NPL Ratio,2.2,2.7,3.4
+Akbank,Stage 3 Coverage,%,Stage 3 Coverage,62.1,58.8,63.7
+Akbank,Cost of Risk (bps),bps,Net cost of risk (excl. FX),107.0,128.0,214.0
+Akbank,CET1,%,CET1 ratio,18.7,15.1,14.26
+Akbank,CAR,%,CAR (Capital Adequacy Ratio),21.921941,21.139062,19.03
+Akbank,IRRBB,TL bn,EVE sensitivity – best case (Parallel Up),,,25.812052
+Akbank,LDR,%,LDR (Loans/Deposits),71.430892,82.3745612831106,86.0
+Akbank,Loan Growth (YoY),%,Loan Growth (YoY),55.27890516206983,47.88673952700757,39.14927572091359
+Garanti,Total Assets,TL mn,Total Assets,1930055.336,2607672.475,4547774.0
+Garanti,Total Loans,TL mn,Total Loans,1066130.856,1562025.645,2631872.0
+Garanti,Total Deposits,TL mn,Total Deposits,1383704.435,1821373.263,3150034.0
+Garanti,Equity,TL mn,Equity,244797.041,329926.317,446636.0
+Garanti,Net Profit,TL mn,Net Profit,87331.72,92174.994,111262.0
+Garanti,ROE,%,ROE,42.57,31.59,29.1
+Garanti,ROA,%,ROA,5.25,3.85,2.9
+Garanti,NIM,%,NIM incl. swap cost,6.2,4.1,5.4
+Garanti,NPL Ratio,%,NPL Ratio,2.1,2.1,3.1
+Garanti,Stage 3 Coverage,%,Stage 3 coverage,67.8,66.9,62.8
+Garanti,Cost of Risk (bps),bps,Net CoR excl. FX,61.0,78.0,151.0
+Garanti,CET1,%,CET1 ratio (excl. BRSA forbearance),14.5,14.7,13.1
+Garanti,CAR,%,CAR (Capital Adequacy Ratio),20.57,21.92,17.5
+Garanti,IRRBB,thousand TL,Maximum EVE impact (abs.),,,11628037.0
+Garanti,LDR,%,LDR (Loans/Deposits),77.05,85.76,83.6
+Garanti,Loan Growth (YoY),%,Loan Growth (YoY),59.2664481872897,46.51350124698015,51.38290291
+Isbank,Total Assets,TL mn,Total Assets,2453783.299,3323776.437,4624940.0
+Isbank,Total Loans,TL mn,Total Loans,1172290.924,1656913.422,2305096.0
+Isbank,Total Deposits,TL mn,Total Deposits,1662178.694,2127117.186,3098900.0
+Isbank,Equity,TL mn,Equity,267797.484,318337.772,427635.0
+Isbank,Net Profit,TL mn,Net Profit,72264.798,45517.445,67441.0
+Isbank,ROE,%,ROE,32.3,15.57,18.08135146982531
+Isbank,ROA,%,ROA,3.59,1.51,1.69690299666009
+Isbank,NIM,%,NIM (adjusted for swap cost),3.5,-0.59,2.3
+Isbank,NPL Ratio,%,NPL Ratio,2.1,2.1,3.2
+Isbank,Stage 3 Coverage,%,Stage 3 Coverage (year-end),75.6,72.5,63.3
+Isbank,Cost of Risk (bps),bps,Net Cost of Risk,96.0,110.0,238.0
+Isbank,CET1,%,CET1 ratio,16.15,14.42,13.5
+Isbank,CAR,%,CAR (Capital Adequacy Ratio),21.6,19.65,17.1
+Isbank,IRRBB,TL bn,EVE sensitivity – Parallel Downwards,,,25.141166
+Isbank,LDR,%,LDR (Loans/Deposits),70.53,77.89,74.4
+Isbank,Loan Growth (YoY),%,Loan Growth (YoY),,41.33978077271201,39.11988214915916
